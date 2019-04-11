@@ -14,7 +14,7 @@
 		"digitalcloud/multilingual-nova": "^1.0",
 		"infinety-es/nova-filemanager": "^1.1",
 		"fourstacks/nova-checkboxes": "^0.1.0",
-		"yassi/nova-custom-form": "dev-master"
+		"zamudio/nova-custom-form": "dev-master"
     },
     "autoload": {
         "psr-4": {
