@@ -9,7 +9,7 @@ This tool allow you to create a simple blog  for your website using Laravel Nova
 You can install the package via composer:
 
 ```bash
-composer require digitalcloud/nova-blog-tool
+composer require zamudio/nova-blog-tool
 ```
 
 ## Usage
