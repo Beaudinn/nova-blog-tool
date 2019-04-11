@@ -1,3 +1,5 @@
+It is a simple fork to be compatible with Nova 2. The original repository is [HERE](https://github.com/DigitalCloud/nova-blog-tool)
+
 # Nova Blog Tool.
 
 This tool allow you to create a simple blog  for your website using Laravel Nova.
